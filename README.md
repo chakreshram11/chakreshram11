@@ -94,7 +94,7 @@ root@chakresh:~$ cat /etc/operator_profile.json
     </td>
     <td width="35%" align="center" valign="middle">
       <a href="https://chakreshram.in">
-        <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYyeG50bnduZHRpdDFnOGx2eGZhb3d6ZHRxZjZ5OW1kdzlxc3p5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvYY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3F4b29zZ3Z5b3hrNWh1OTB6MWEzdmlreHExMDRzeDJmejlneHF4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1is4K4y0oWyyGnWTSh/giphy.gif)" width="100%" style="border-radius: 10px; border: 2px solid #00FF66;" alt="Cyber Matrix GIF" />
+        <img src="https://i.giphy.com/1is4K4y0oWyyGnWTSh.gif" width="100%" style="border-radius: 10px; border: 2px solid #00FF66;" alt="Cyber Matrix GIF" />
       </a>
     </td>
   </tr>
