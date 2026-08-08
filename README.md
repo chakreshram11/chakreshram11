@@ -11,7 +11,7 @@
 
   <!-- Terminal Typing SVG -->
   <a href="https://chakreshram.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=780&lines=%3E+INITIALIZING+CYBER+SECURITY+PROTOCOL...;%3E+ROOT_ACCESS+GRANTED%3A+KUDUPUDI+CHAKRESH+RAM;%3E+FULL+STACK+DEV+%7C+CVE+RESEARCHER+%7C+CONTENT+ENGINEER;%3E+ACCESS+PORTFOLIO+AT+chakreshram.in" alt="Hacker Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=780&lines=%3E+INITIALIZING+CYBER+SECURITY+PROTOCOL...;%3E+ROOT_ACCESS+GRANTED%3A+KUDUPUDI+CHAKRESH+RAM;%3E+8+SECURITY+VULNERABILITIES+DISCOVERED;%3E+FULL+STACK+DEV+%7C+CVE+RESEARCHER+%7C+CONTENT+ENGINEER;%3E+ACCESS+PORTFOLIO+AT+chakreshram.in" alt="Hacker Typing SVG" />
   </a>
 
   <br/><br/>
@@ -47,7 +47,7 @@ root@chakresh:~$ cat /etc/operator_profile.json
 {
   "operator_name": "Kudupudi Chakresh Ram",
   "status": "ONLINE // OPEN_FOR_SECURITY_ENGAGEMENTS",
-  "role": ["Full Stack Developer", "Cyber Security Researcher", "Content Engineer"],
+  "roles": ["Full Stack Developer", "Cybersecurity Researcher", "Content Engineer", "Photoshop Editor"],
   "education": {
     "degree": "B.Tech in Cyber Security (2022 - 2026)",
     "diploma": "Computer Engineering (2020 - 2023)"
@@ -55,7 +55,7 @@ root@chakresh:~$ cat /etc/operator_profile.json
   "clearance_level": "LEVEL_3_ANALYST",
   "track_record": {
     "total_experience": "12+ Months across 3 Organizations",
-    "vulns_reproduced_and_patched": 2,
+    "vulnerabilities_discovered": 8,
     "certifications_acquired": 8
   },
   "portfolio_terminal": "https://chakreshram.in",
@@ -67,11 +67,11 @@ root@chakresh:~$ cat /etc/operator_profile.json
   <tr>
     <td width="65%" valign="top">
       <h3><code>> IDENTITY_VERIFIED // KUDUPUDI CHAKRESH RAM</code></h3>
-      <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the nexus of application security, penetration testing, and modern web architecture. I specialize in identifying software flaws, analyzing CVEs, writing exploit reproduction scripts, and engineering secure, resilient full-stack systems.</p>
+      <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the nexus of application security, vulnerability research, penetration testing, and modern web engineering. I specialize in discovering critical security flaws (OTP leaks, BOLA, access control bypasses), analyzing CVEs, and engineering resilient full-stack systems.</p>
       <br/>
       <ul>
-        <li>⚡ <b>Primary Directive:</b> Vulnerability Research, Web App Security, CVE PoC Generation & React/Node Architecture.</li>
-        <li>🛡️ <b>Sec Operations:</b> Former Content Engineer at <b>Osmsec</b> (CVE setup scripts & <code>proof.txt</code> generation).</li>
+        <li>⚡ <b>Primary Directive:</b> Vulnerability Research, Web App Security, API Audit, CVE PoC Generation & Full Stack Dev.</li>
+        <li>🛡️ <b>Security Research:</b> 8 Confirmed Vulnerability Discoveries (BOLA, OTP Leakage, Unauthenticated Exposure, API AC, etc.).</li>
         <li>🌐 <b>Main Console:</b> <a href="https://chakreshram.in" target="_blank"><b>chakreshram.in</b></a></li>
         <li>💬 <b>Direct Enquiries:</b> <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> | <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><b>LinkedIn</b></a></li>
       </ul>
@@ -83,6 +83,92 @@ root@chakresh:~$ cat /etc/operator_profile.json
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ========================================== -->
+<!--          SECURITY DISCOVERIES / VULNS      -->
+<!-- ========================================== -->
+
+## 🐛 `[SECTION: THREAT_INTEL_VULNERABILITY_DISCOVERIES]` (8 Confirmed Findings)
+
+```text
+[+] AUDIT_LOG #001: OTP Leakage in Frontend & API Response
+    ├── SEVERITY : CRITICAL
+    ├── DATE     : Feb 2026
+    ├── FINDING  : Authentication OTP exposed in both frontend console and API response during login, allowing SMS bypass and complete account takeover.
+    └── REMEDY   : Recommended returning success status only, keeping OTP generation & validation strictly on server side.
+
+[+] AUDIT_LOG #002: Broken Object Level Authorization (BOLA)
+    ├── SEVERITY : HIGH
+    ├── DATE     : Feb 2026
+    ├── FINDING  : Reviews endpoint unauthenticated and validates only parameters, allowing unauthorized users to access review data via resource IDs.
+    └── REMEDY   : Recommended enforcing strict authentication and object-level authorization checks.
+
+[+] AUDIT_LOG #003: Lack of Rate Limiting on OTP Generation
+    ├── SEVERITY : HIGH
+    ├── DATE     : Feb 2026
+    ├── FINDING  : OTP generation endpoint accepts unlimited requests without rate limits, enabling SMS flooding and brute-force assistance.
+    └── REMEDY   : Recommended implementing request throttling, CAPTCHA integration, and per-user rate limits.
+
+[+] AUDIT_LOG #004: Unauthenticated Property Data Exposure
+    ├── SEVERITY : MEDIUM / HIGH
+    ├── DATE     : Feb 2026
+    ├── FINDING  : Property listing API returns sensitive business data, pricing, images, and amenities to anonymous unauthenticated users.
+    └── REMEDY   : Recommended enforcing authentication and authorization before serving business data.
+
+[+] AUDIT_LOG #005: Improper Access Control on API Discovery
+    ├── SEVERITY : MEDIUM
+    ├── DATE     : Feb 2026
+    ├── FINDING  : Publicly accessible API endpoints expose application routing, parameters, and backend structure, expanding attack surface.
+    └── REMEDY   : Recommended restricting API discovery and enforcing route-level access controls.
+
+[+] AUDIT_LOG #006: Admin Panel Exposure & Redundant Subdomains
+    ├── SEVERITY : MEDIUM
+    ├── DATE     : Feb 2026
+    ├── FINDING  : Publicly exposed administrative portals and redundant beta subdomains increase exposure to brute-force and credential stuffing.
+    └── REMEDY   : Recommended restricting admin portal access via IP/VPN and decommissioning unused subdomains.
+
+[+] AUDIT_LOG #007: Information Disclosure
+    ├── SEVERITY : HIGH
+    ├── DATE     : Feb 2025
+    ├── FINDING  : Identified improper access control exposing sensitive institutional data.
+    └── REMEDY   : Implemented strict RBAC enforcement & input validation controls.
+
+[+] AUDIT_LOG #008: FTP Misconfiguration
+    ├── SEVERITY : HIGH
+    ├── DATE     : Feb 2025
+    ├── FINDING  : Discovered unauthenticated FTP access exposing internal directories.
+    └── REMEDY   : Applied mandatory host authentication & hardened protocol configs.
+```
+
+<br/>
+
+<!-- ========================================== -->
+<!--               CYBER ARSENAL                -->
+<!-- ========================================== -->
+
+## 🛠️ `[SECTION: TECHNICAL_ARSENAL_AND_MATRIX]`
+
+<div align="center">
+
+| Operational Sector | Security Tools & Tech Stack | Proficiency |
+| :--- | :--- | :---: |
+| **Security & Networking** | `Cisco Packet Tracer (90%)` `Wireshark (85%)` `Burp Suite (80%)` `Nmap (80%)` `OWASP ZAP (80%)` `Metasploit (70%)` | 🛡️ **81% Avg** |
+| **AI Tools** | `ChatGPT (95%)` `Claude Code (90%)` `Gemini AI (80%)` | 🤖 **88% Avg** |
+| **Creative & Productivity** | `Adobe Photoshop (95%)` `CapCut (90%)` `DaVinci Resolve (80%)` `Canva (80%)` `Gamma AI (80%)` | 🎨 **87% Avg** |
+| **Core Languages** | `React.js (85%)` `HTML5 (80%)` `Python (75%)` `Java (70%)` `CSS3 (70%)` `JavaScript (60%)` | 💻 **73% Avg** |
+| **Backend & Databases** | `Python Flask (45%)` `Firebase (40%)` `Node.js (40%)` `Express.js (30%)` `REST APIs` | ⚙️ **40% Avg** |
+| **Security & OS Envs** | `Windows (90%)` `Kali Linux OS (70%)` `Ubuntu Live Server (70%)` | 🖥️ **77% Avg** |
+
+<br/>
+
+<!-- Hacker Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,py,react,js,ts,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,vscode,postman,figma,ps,bots&perline=7" alt="Hacker Tech Icons" />
+</a>
+
+</div>
 
 <br/>
 
@@ -118,28 +204,6 @@ root@chakresh:~$ cat /etc/operator_profile.json
     <td>Developed features and resolved bugs in production web applications, enhanced user experience, wrote unit tests, and tuned CI/CD pipelines.</td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ========================================== -->
-<!--          SECURITY DISCOVERIES / VULNS      -->
-<!-- ========================================== -->
-
-## 🐛 `[SECTION: THREAT_INTEL_VULNERABILITY_DISCOVERIES]`
-
-```text
-[+] AUDIT_LOG_ENTRY #001: INFORMATION_DISCLOSURE
-    ├── SEVERITY : HIGH
-    ├── TARGET   : Institutional Web Infrastructure
-    ├── FINDING  : Identified improper access control exposing sensitive data.
-    └── REMEDY   : Implemented strict RBAC enforcement & input validation controls.
-
-[+] AUDIT_LOG_ENTRY #002: FTP_MISCONFIGURATION
-    ├── SEVERITY : CRITICAL
-    ├── TARGET   : Anonymous FTP Server Endpoint
-    ├── FINDING  : Discovered unauthenticated FTP access exposing internal directories.
-    └── REMEDY   : Applied mandatory host authentication & hardened protocol configs.
-```
 
 <br/>
 
@@ -190,32 +254,6 @@ root@chakresh:~$ cat /etc/operator_profile.json
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ========================================== -->
-<!--               CYBER ARSENAL                -->
-<!-- ========================================== -->
-
-## 🛠️ `[SECTION: TECHNICAL_ARSENAL_AND_MATRIX]`
-
-<div align="center">
-
-| Operational Sector | Security Tools & Tech Stack |
-| :--- | :--- |
-| **Languages & Core** | `React.js (85%)` `HTML5 (80%)` `Python (75%)` `Java (70%)` `CSS3 (70%)` `JavaScript (60%)` |
-| **Backend & Cloud Services** | `Python Flask (45%)` `Firebase (40%)` `Node.js (40%)` `Express.js (30%)` `REST APIs` |
-| **Security & OS Environments** | `Windows (90%)` `Kali Linux OS (70%)` `Ubuntu Live Server (70%)` |
-| **Tooling & Workstation** | `Git / GitHub` `Tailwind CSS` `Figma` `VS Code` `Postman` `Vercel` |
-
-<br/>
-
-<!-- Hacker Skill Icons Grid -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,python,react,js,ts,nodejs,express,firebase,postgres,mongodb,redis,docker,aws,git,github,vscode,postman,figma,vercel&perline=7" alt="Hacker Tech Icons" />
-</a>
-
-</div>
 
 <br/>
 
