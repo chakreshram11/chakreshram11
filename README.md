@@ -58,7 +58,7 @@
 
 <br/>
 
-  json
+ ``` json
   {
     "operator_name": "Kudupudi Chakresh Ram",
     "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
@@ -122,7 +122,6 @@
   </table>
 
   <br/>
-```
 <!-- ========================================== -->
 <!--          SECURITY DISCOVERIES / VULNS      -->
 <!-- ========================================== -->
