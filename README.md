@@ -10,8 +10,8 @@
   <br/>
 
   <!-- Animated Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=⚡+Frontend+Performance+Engineer;🚀+Specializing+in+Next.js%2C+React+%26+Core+Web+Vitals;💡+Crafting+Lightning-Fast+Web+Experiences;🌐+Explore+My+Portfolio+At+chakreshram.in" alt="Typing SVG" />
+  <a href="https://chakreshram.in">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=⚡+Frontend+Performance+Engineer;🚀+Specializing+in+Next.js%2C+React+%26+Core+Web+Vitals;💡+Crafting+Lightning-Fast+Web+Experiences;🌐+Explore+My+Portfolio+At+chakreshram.in" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -141,9 +141,9 @@
 
 <div align="center">
 
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chakreshram11&theme=dracula&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- Activity Contribution Graph -->
+  <a href="https://github.com/chakreshram11">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chakreshram11&theme=react-dark" width="100%" alt="GitHub Activity Graph" />
   </a>
 
   <br/><br/>
@@ -152,15 +152,15 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=chakreshram11&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="410px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.demolab.com/api?username=chakreshram11&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="410px" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakreshram11&layout=compact&theme=dracula&hide_border=true" width="370px" alt="Top Languages" />
+        <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=chakreshram11&layout=compact&theme=dracula&hide_border=true" width="370px" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakreshram11&theme=dracula&hide_border=true" width="780px" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=chakreshram11&theme=dracula&hide_border=true" width="780px" alt="Streak Stats" />
       </td>
     </tr>
   </table>
