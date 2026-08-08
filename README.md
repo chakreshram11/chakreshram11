@@ -1,473 +1,1062 @@
- <!-- ========================================== -->
-  <!--       HACKER / MATRIX HEADER BANNER        -->
-  <!-- ========================================== -->
+<!-- ============================================================
+     CHAKRESH RAM — CYBERSECURITY GITHUB PROFILE
+     Professional Hacker / Terminal / Matrix Theme
+============================================================ -->
 
-  <div align="center">
+<div align="center">
 
-    <!-- Matrix Capsule Banner -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=220&section=header&text=root@chakres
-  h:~%23&fontSize=55&fontAlignY=35&animation=twinkling&desc=%5B%20CYBERSECURITY%20RESEARCHER%20%7C%20FULL%20STACK%20DEV%
-  20%7C%20ETHICAL%20HACKER%20%5D&descAlignY=65&descSize=16" width="100%" alt="Hacker Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001A00,70:003300,100:00FF41&height=260&section=header&text=CHAKRESH%20RAM&fontSize=58&fontColor=00FF41&fontAlignY=35&animation=twinkling&desc=CYBERSECURITY%20RESEARCHER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=16" width="100%" alt="Chakresh Ram Cybersecurity Header"/>
 
-    <br/>
+<br>
 
-    <!-- Terminal Typing SVG -->
-    <a href="https://chakreshram.in">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF66&center=t
-  rue&vCenter=true&width=780&lines=%3E+INITIALIZING+CYBER+SECURITY+PROTOCOL...;%3E+ROOT_ACCESS+GRANTED%3A+KUDUPUDI+CHAKR
-  ESH+RAM;%3E+8+SECURITY+VULNERABILITIES+DISCOVERED;%3E+FULL+STACK+DEV+%7C+CVE+RESEARCHER+%7C+CONTENT+ENGINEER;%3E+ACCES
-  S+PORTFOLIO+AT+chakreshram.in" alt="Hacker Typing SVG" />
-    </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=%5B%2B%5D+Initializing+Security+Profile...;%5B%2B%5D+Cybersecurity+Researcher;%5B%2B%5D+Full+Stack+Developer;%5B%2B%5D+Vulnerability+Researcher;%5B%2B%5D+CVE+Analysis+%26+PoC+Development;%5B%2B%5D+Build+%7C+Break+%7C+Analyze+%7C+Secure" alt="Terminal Typing Animation"/>
 
-    <br/><br/>
+<br><br>
 
-    <!-- Cyber Matrix Badges -->
-    <p align="center">
-      <a href="https://chakreshram.in" target="_blank">
-        <img src="https://img.shields.io/badge/SYSTEM_PORTFOLIO-chakreshram.in-00FF66?style=for-the-badge&logo=gnu-bash&
-  logoColor=black" alt="Portfolio Website" />
-      </a>
-      <a href="https://github.com/chakreshram11">
-        <img src="https://img.shields.io/github/followers/chakreshram11?label=NODES_CONNECTED&style=for-the-badge&color=
-  00F0FF&logo=github&logoColor=white" alt="Followers" />
-      </a>
-      <a
-  href="https://komarev.com/ghpvc/?username=chakreshram11&color=00FF66&style=for-the-badge&label=SYSTEM_ACCESS_COUNT">
-        <img
-  src="https://komarev.com/ghpvc/?username=chakreshram11&color=00FF66&style=for-the-badge&label=SYSTEM_ACCESS_COUNT"
-  alt="Profile Views" />
-      </a>
-      <a href="https://github.com/chakreshram11?tab=repositories">
-        <img src="https://img.shields.io/github/stars/chakreshram11?label=STARS_ACQUIRED&style=for-the-badge&color=BD00F
-  F&logo=github&logoColor=white" alt="Total Stars" />
-      </a>
-    </p>
+<a href="https://chakreshram.in">
+<img src="https://img.shields.io/badge/%3E_%20PORTFOLIO-00FF41?style=for-the-badge&labelColor=050505&logo=googlechrome&logoColor=00FF41" alt="Portfolio"/>
+</a>
 
-  </div>
+<a href="https://github.com/chakreshram11">
+<img src="https://img.shields.io/badge/%3E_%20GITHUB-00FF41?style=for-the-badge&labelColor=050505&logo=github&logoColor=00FF41" alt="GitHub"/>
+</a>
 
-  <br/>
+<a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/">
+<img src="https://img.shields.io/badge/%3E_%20LINKEDIN-00FF41?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
+</a>
 
-  <!-- ========================================== -->
-  <!--           SYSTEM OPERATOR PROFILE          -->
-  <!-- ========================================== -->
+<a href="mailto:chakreshram11@gmail.com">
+<img src="https://img.shields.io/badge/%3E_%20CONTACT-00FF41?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=00FF41" alt="Contact"/>
+</a>
 
-  💻 [SECTION: SYSTEM_OPERATOR_INFO]
+<br><br>
 
-  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=chakreshram11&style=for-the-badge&color=00FF41&labelColor=050505&label=SYSTEM+VISITS" alt="Profile Views"/>
 
-  ┌─────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────┐
-  │       Metric        │                            Clearance & Executive Track Record                             │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │      Operator       │ Kudupudi Chakresh Ram                                                                     │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │    Designations     │ Cybersecurity Researcher • Full Stack Engineer • Content Engineer                         │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │      Academic       │ B.Tech in Cybersecurity (2022 - 2026) • Diploma in Computer Engineering (2020 - 2023)     │
-  │     Credentials     │                                                                                           │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │ Vulnerability Intel │ 🛡️ 8 Confirmed Security Vulnerabilities Discovered (Critical/High: BOLA, OTP Leakage,     │
-  │                     │ Access Control)                                                                           │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │   Industry Track    │ 💼 12+ Months Experience across 3 Tech Organizations (Osmsec, Manakirana, Lifebox Next    │
-  │       Record        │ Gen)                                                                                      │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │  Certified Skills   │ 📜 8 Professional Certifications (Fortinet, Palo Alto, Zscaler, Cisco, Amazon, NPTEL)     │
-  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
-  │     Digital HQ      │ 🌐 chakreshram.in                                                                         │
-  └─────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────┘
+</div>
 
-  </div>
+<br>
 
-  <br/>
+---
 
-  {
-    "operator_name": "Kudupudi Chakresh Ram",
-    "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
-    "specializations": {
-      "security_research": ["Web Penetration Testing", "API Audits", "CVE Analysis", "PoC Scripting", "BOLA & Auth
-  Audits"],
-      "full_stack": ["React.js", "Next.js", "Node.js", "Python Flask", "Firebase", "Tailwind CSS"],
-      "tooling": ["Claude Code", "Wireshark", "Burp Suite", "Nmap", "Metasploit"]
-    },
-    "metrics": {
-      "vulnerabilities_discovered": 8,
-      "industry_experience_months": 12,
-      "accredited_certifications": 8
-    },
-    "terminal": "https://chakreshram.in",
-    "contact": "chakreshram11@gmail.com"
-  }
+# `> SYSTEM STATUS`
 
-  <br/>
+<div align="center">
 
-  <table border="0" width="100%">
-    <tr>
-      <td width="63%" valign="top">
-        <h3><code>> EXECUTIVE_SUMMARY // KUDUPUDI CHAKRESH RAM</code></h3>
-        <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the convergence of application
-  security, vulnerability research, and modern web engineering. With 12+ months of industry experience across 3
-  technology firms and 8 accredited certifications, I specialize in identifying high-impact vulnerabilities (BOLA, OTP
-  leakage, authorization bypasses) and building secure, scalable software architectures.</p>
-        <br/>
-        <p>
-          <a href="https://chakreshram.in" target="_blank">
-            <img
-  src="https://img.shields.io/badge/PORTFOLIO-chakreshram.in-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black"
-  alt="Portfolio" />
-          </a>
-          <a href="mailto:chakreshram11@gmail.com">
-            <img src="https://img.shields.io/badge/EMAIL-chakreshram11%40gmail.com-EA4335?style=for-the-badge&logo=gmail
-  &logoColor=white" alt="Email" />
-          </a>
-          <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/" target="_blank">
-            <img
-  src="https://img.shields.io/badge/LINKEDIN-Chakresh_Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn" />
-          </a>
-        </p>
-        <br/>
-        <ul>
-          <li>⚡ <b>Focus:</b> Application Security Audits, Web Vitals Optimization, API Security, CVE
-  Reproduction.</li>
-          <li>🛡️ <b>Track Record:</b> 8 Confirmed Security Flaws (OTP Leaks, BOLA, Rate Limiting, API Auth).</li>
-          <li>💼 <b>Roles:</b> Ex-Content Engineer at <b>Osmsec</b>, Full Stack Dev at <b>Manakirana</b>, Dev at
-  <b>Lifebox Next Gen</b>.</li>
-        </ul>
-      </td>
-      <td width="37%" align="center" valign="middle">
-        <a href="https://chakreshram.in" target="_blank">
-          <img src="https://i.giphy.com/1is4K4y0oWyyGnWTSh.gif" width="100%" alt="Cyber Matrix GIF" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table align="center">
+<tr>
+<th align="center">SYSTEM PARAMETER</th>
+<th align="center">STATUS / VALUE</th>
+</tr>
 
-  <br/>
+<tr>
+<td align="center">👤 <b>USER</b></td>
+<td align="center"><code>chakresh_ram</code></td>
+</tr>
 
-  <!-- ========================================== -->
-  <!--          SECURITY DISCOVERIES / VULNS      -->
-  <!-- ========================================== -->
+<tr>
+<td align="center">🪪 <b>IDENTITY</b></td>
+<td align="center"><b>Chakresh Ram Kudupudi</b></td>
+</tr>
 
-  🐛 [SECTION: THREAT_INTEL_VULNERABILITY_DISCOVERIES] (8 Confirmed Findings)
+<tr>
+<td align="center">💼 <b>PRIMARY ROLE</b></td>
+<td align="center"><code>Cybersecurity Researcher</code></td>
+</tr>
 
-  <table width="100%">
-    <thead>
-      <tr>
-        <th align="center" width="12%">Log ID</th>
-        <th align="center" width="15%">Severity</th>
-        <th align="left" width="38%">Vulnerability Finding</th>
-        <th align="left" width="35%">Remediation / Fix</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><code>#001</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/CRITICAL-D9381E?style=for-the-badge&logo=shield"
-  alt="Critical" /></td>
-        <td><b>OTP Leakage in Frontend & API Response</b><br/><sub>Authentication OTP exposed in console and API
-  response, allowing SMS bypass & complete account takeover.</sub></td>
-        <td><code>Server-side OTP generation & strict response sanitization.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#002</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
-  alt="High" /></td>
-        <td><b>Broken Object Level Authorization (BOLA)</b><br/><sub>Reviews endpoint unauthenticated, allowing
-  unauthorized users to access resources via parameter tampering.</sub></td>
-        <td><code>Enforced strict RBAC and object-level access validation.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#003</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
-  alt="High" /></td>
-        <td><b>Lack of Rate Limiting on OTP Generation</b><br/><sub>Unrestricted requests on OTP endpoint enabling SMS
-  flooding and automated brute-force attempts.</sub></td>
-        <td><code>Implemented IP throttling, CAPTCHA, & rate limiting.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#004</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
-  alt="High" /></td>
-        <td><b>Information Disclosure (Institutional Data)</b><br/><sub>Improper access control exposing sensitive
-  institutional infrastructure data.</sub></td>
-        <td><code>Strict RBAC enforcement & input validation controls.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#005</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
-  alt="High" /></td>
-        <td><b>FTP Misconfiguration</b><br/><sub>Unauthenticated FTP access exposing internal directories and system
-  files.</sub></td>
-        <td><code>Mandatory host auth & hardened FTP protocol configs.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#006</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
-  alt="Medium" /></td>
-        <td><b>Unauthenticated Property Data Exposure</b><br/><sub>Property listing API exposing sensitive business
-  pricing, amenities, and media to anonymous callers.</sub></td>
-        <td><code>Enforced authentication checks prior to serving data.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#007</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
-  alt="Medium" /></td>
-        <td><b>Improper Access Control on API Discovery</b><br/><sub>Publicly accessible endpoints revealing internal
-  backend routing, parameters, and application map.</sub></td>
-        <td><code>Restricted API discovery & route-level authorization.</code></td>
-      </tr>
-      <tr>
-        <td align="center"><code>#008</code></td>
-        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
-  alt="Medium" /></td>
-        <td><b>Admin Panel Exposure & Redundant Subdomains</b><br/><sub>Publicly exposed admin gateways and orphaned
-  beta subdomains expanding attack surface.</sub></td>
-        <td><code>IP/VPN restricted admin access & decommissioned subdomains.</code></td>
-      </tr>
-    </tbody>
-  </table>
+<tr>
+<td align="center">💻 <b>SECONDARY ROLE</b></td>
+<td align="center"><code>Full Stack Developer</code></td>
+</tr>
 
-  <br/>
+<tr>
+<td align="center">🔐 <b>SPECIALIZATION</b></td>
+<td align="center">
+<code>Application Security</code> •
+<code>Web & API Security</code> •
+<code>Vulnerability Research</code> •
+<code>CVE Analysis</code>
+</td>
+</tr>
 
-  <!-- ========================================== -->
-  <!--               CYBER ARSENAL                -->
-  <!-- ========================================== -->
+<tr>
+<td align="center">🐛 <b>RESEARCH</b></td>
+<td align="center">
+<code>CVE Analysis</code> •
+<code>PoC Development</code> •
+<code>Vulnerability Reproduction</code>
+</td>
+</tr>
 
-  🛠️ [SECTION: TECHNICAL_ARSENAL_AND_MATRIX]
+<tr>
+<td align="center">⚙️ <b>SECURITY</b></td>
+<td align="center">
+<code>VAPT</code> •
+<code>Security Automation</code> •
+<code>Authentication</code> •
+<code>Authorization</code>
+</td>
+</tr>
 
-  <div align="center">
+<tr>
+<td align="center">💻 <b>STACK</b></td>
+<td align="center">
+<code>Python</code> •
+<code>JavaScript</code> •
+<code>React.js</code> •
+<code>Node.js</code> •
+<code>MongoDB</code> •
+<code>MySQL</code>
+</td>
+</tr>
 
-  ┌─────────────────────┬─────────────────────────────────────────────────────────────────────────────┬─────────────┐
-  │ Operational Sector  │                         Security Tools & Tech Stack                         │ Proficiency │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ Security &          │ Cisco Packet Tracer (90%) Wireshark (85%) Burp Suite (80%) Nmap (80%) OWASP │ 🛡️ 81% Avg  │
-  │ Networking          │  ZAP (80%) Metasploit (70%)                                                 │             │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ AI Tools            │ ChatGPT (95%) Claude Code (90%) Gemini AI (80%)                             │ 🤖 88% Avg  │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ Creative &          │ Adobe Photoshop (95%) CapCut (90%) DaVinci Resolve (80%) Canva (80%) Gamma  │ 🎨 87% Avg  │
-  │ Productivity        │ AI (80%)                                                                    │             │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ Core Languages      │ React.js (85%) HTML5 (80%) Python (75%) Java (70%) CSS3 (70%) JavaScript    │ 💻 73% Avg  │
-  │                     │ (60%)                                                                       │             │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ Backend & Databases │ Python Flask (45%) Firebase (40%) Node.js (40%) Express.js (30%) REST APIs  │ ⚙️ 40% Avg  │
-  ├─────────────────────┼─────────────────────────────────────────────────────────────────────────────┼─────────────┤
-  │ Security & OS Envs  │ Windows (90%) Kali Linux OS (70%) Ubuntu Live Server (70%)                  │ 🖥️ 77% Avg  │
-  └─────────────────────┴─────────────────────────────────────────────────────────────────────────────┴─────────────┘
+<tr>
+<td align="center">🟢 <b>SYSTEM STATUS</b></td>
+<td align="center"><code>● OPEN TO OPPORTUNITIES</code></td>
+</tr>
 
-  <br/>
+<tr>
+<td align="center">🌍 <b>LOCATION</b></td>
+<td align="center"><code>India</code></td>
+</tr>
 
-  <!-- Hacker Skill Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,linux,py,react,js,ts,nodejs,express,postgres,mongodb,redis,dock
-  er,aws,git,github,vscode,postman,figma,ps,bots&perline=7" alt="Hacker Tech Icons" />
-  </a>
+<tr>
+<td align="center">🌐 <b>WEBSITE</b></td>
+<td align="center"><a href="https://chakreshram.in">chakreshram.in</a></td>
+</tr>
 
-  </div>
+</table>
 
-  <br/>
+</div>
 
-  <!-- ========================================== -->
-  <!--         CAREER & SECURITY MISSIONS         -->
-  <!-- ========================================== -->
+---
 
-  🛠️ [SECTION: CLASSIFIED_EXPERIENCE_LOGS]
+# `01` ABOUT ME
 
-  <table width="100%">
-    <tr>
-      <th align="left" width="25%">Target Entity</th>
-      <th align="left" width="20%">Assigned Designation</th>
-      <th align="left" width="15%">Duration</th>
-      <th align="left" width="40%">Operational Impact & Stack</th>
-    </tr>
-    <tr>
-      <td><b style="color:#00F0FF;">Manakirana</b></td>
-      <td><code>Full Stack Developer</code></td>
-      <td><code>6 Months</code></td>
-      <td>Engineered responsive UI modules using React & Tailwind CSS. Integrated RESTful endpoints and participated in
-  Agile sprint reviews.</td>
-    </tr>
-    <tr>
-      <td><b style="color:#00FF66;">Osmsec</b></td>
-      <td><code>Content Engineer</code></td>
-      <td><code>3 Months</code></td>
-      <td>Analyzed assigned CVE targets, created automated build scripts to reproduce vulnerable environments, and
-  generated <code>proof.txt</code> PoCs.</td>
-    </tr>
-    <tr>
-      <td><b style="color:#BD00FF;">Lifebox Next Gen</b></td>
-      <td><code>Developer</code></td>
-      <td><code>3 Months</code></td>
-      <td>Developed features and resolved bugs in production web applications, enhanced user experience, wrote unit
-  tests, and tuned CI/CD pipelines.</td>
-    </tr>
-  </table>
+### `> whoami`
 
-  <br/>
+I'm **Chakresh Ram Kudupudi**, a Cybersecurity Researcher and Full Stack Developer focused on the intersection of **application security, vulnerability research, and software engineering**.
 
-  <!-- ========================================== -->
-  <!--               PROJECT VAULT                -->
-  <!-- ========================================== -->
+I work on understanding how applications and APIs behave, identifying security weaknesses, reproducing vulnerabilities in controlled environments, automating repetitive security workflows, and developing practical web applications.
 
-  🚀 [SECTION: PROJECT_REPOSITORY_VAULT]
+<div align="center">
 
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center"><code style="color:#00FF66;">⚡ PROJECT_01: TENSILE</code></h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/COMMERCIAL_ENGAGEMENT-8000_INR-00FF66?style=flat-square"
-  alt="Commercial Engagement" />
-          <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"
-  />
-          <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black"
-  alt="Firebase" />
-        </p>
-        <p>A full-featured web platform with an integrated Firebase admin console for managing live content, users, and
-  real-time database streams.</p>
-        <p align="center">
-          <a href="https://chakreshram.in" target="_blank"><b>[ 🚀 LAUNCH_DEMO ]</b></a> •
-          <a href="https://github.com/chakreshram11/react_portfolio"><b>[ 📂 SOURCE_CODE ]</b></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center"><code style="color:#00F0FF;">🛠️ PROJECT_02: WORDLIST_GEN</code></h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/SECURITY_TOOL-PYTHON-00F0FF?style=flat-square" alt="Security Tool" />
-          <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"
-  alt="Python" />
-          <img src="https://img.shields.io/badge/CLI-SECURITY-BD00FF?style=flat-square" alt="CLI" />
-        </p>
-        <p>Custom Python security automation CLI tool designed to build context-aware wordlists for penetration testing
-  and password auditing.</p>
-        <p align="center">
-          <a href="https://github.com/chakreshram11"><b>[ 📂 REPO_ACCESS ]</b></a> •
-          <a href="https://chakreshram.in" target="_blank"><b>[ 📖 VIEW_DOCS ]</b></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="top">
-        <h3 align="center"><code style="color:#BD00FF;">🛡️ PROJECT_03: CYBER_CREW_PORTAL</code></h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/CYBER_COMMUNITY-PORTAL-BD00FF?style=flat-square" alt="Portal" />
-          <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"
-  />
-          <img src="https://img.shields.io/badge/TAILWIND-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"
-  alt="Tailwind" />
-        </p>
-        <p>Interactive web application engineered for a cybersecurity club, featuring member administration, event
-  feeds, and security resources.</p>
-      </td>
-    </tr>
-  </table>
+<table align="center">
+<tr>
+<th align="center">AREA</th>
+<th align="center">FOCUS</th>
+</tr>
 
-  <br/>
+<tr>
+<td align="center">🔐 <b>Application Security</b></td>
+<td>Web application security • Authentication • Authorization • Access Control</td>
+</tr>
 
-  <!-- ========================================== -->
-  <!--            CYBER CERTIFICATIONS            -->
-  <!-- ========================================== -->
+<tr>
+<td align="center">🌐 <b>API Security</b></td>
+<td>REST APIs • Endpoint Analysis • API Testing • Authorization Testing</td>
+</tr>
 
-  📜 [SECTION: SECURITY_CLEARANCE_CERTIFICATIONS]
+<tr>
+<td align="center">🛡️ <b>Vulnerability Research</b></td>
+<td>Vulnerability Discovery • Analysis • Validation • Documentation</td>
+</tr>
 
-  <div align="center">
+<tr>
+<td align="center">🐛 <b>CVE Research</b></td>
+<td>CVE Analysis • Vulnerability Reproduction • PoC Development</td>
+</tr>
 
-  ┌────────────────────────────────────────────┬──────────────────────────┬──────────────────┐
-  │         Certification Designation          │   Issuing Organization   │ Acquisition Date │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Fortinet Network Security Associate        │      AICTE Platform      │     Aug 2025     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ IoT (Internet of Things)                   │       Swayam NPTEL       │     May 2025     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Palo Alto Cybersecurity Virtual Internship │      AICTE Platform      │     Mar 2025     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Zscaler Networking Virtual Internship      │      AICTE Platform      │     Dec 2024     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Operating System Basics                    │ CISCO Networking Academy │     Oct 2024     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Cyber Security Awareness Training          │          Amazon          │     Nov 2021     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Introduction to Artificial Intelligence    │      Great Learning      │     Nov 2021     │
-  ├────────────────────────────────────────────┼──────────────────────────┼──────────────────┤
-  │ Excel for Beginners                        │      Great Learning      │     Nov 2021     │
-  └────────────────────────────────────────────┴──────────────────────────┴──────────────────┘
+<tr>
+<td align="center">⚙️ <b>Security Automation</b></td>
+<td>Python • Bash • Security Tooling • Workflow Automation</td>
+</tr>
 
-  </div>
+<tr>
+<td align="center">💻 <b>Full Stack Development</b></td>
+<td>React.js • Node.js • Express.js • Flask • REST APIs</td>
+</tr>
 
-  <br/>
+<tr>
+<td align="center">🧪 <b>Security Labs</b></td>
+<td>Controlled Vulnerable Environments • Hands-on Security Testing</td>
+</tr>
 
-  <!-- ========================================== -->
-  <!--           MATRIX GITHUB METRICS            -->
-  <!-- ========================================== -->
+</table>
 
-  📊 [SECTION: TELEMETRY_AND_ACTIVITY_GRAPH]
+</div>
 
-  <div align="center">
+> **Understand the system → Find the weakness → Validate the impact → Document the issue → Improve the security.**
 
-    <!-- Matrix Activity Contribution Graph -->
-    <a href="https://github.com/chakreshram11">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=chakreshram11&theme=matrix" width="100%"
-  alt="Matrix GitHub Activity Graph" />
-    </a>
+---
 
-    <br/><br/>
+# `02`VULNERABILITY RESEARCH
 
-    <!-- Stats Grid -->
-    <table border="0">
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.demolab.com/api?username=chakreshram11&show_icons=true&theme=matrix&hide
-  _border=true&count_private=true" width="410px" alt="GitHub Stats" />
-        </td>
-        <td>
-          <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=chakreshram11&layout=compact&theme=m
-  atrix&hide_border=true" width="370px" alt="Top Languages" />
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <img src="https://streak-stats.demolab.com?user=chakreshram11&theme=matrix&hide_border=true" width="780px"
-  alt="Streak Stats" />
-        </td>
-      </tr>
-    </table>
+### `> recon --findings`
 
-  </div>
+> ⚠️ Security research and testing should only be performed against systems where appropriate authorization has been granted.
 
-  <br/>
+<div align="center">
 
-  <!-- ========================================== -->
-  <!--            CONNECT & FOOTER BANNER         -->
-  <!-- ========================================== -->
+<table align="center">
+<tr>
+<th align="center">ID</th>
+<th align="center">SEVERITY</th>
+<th align="center">VULNERABILITY</th>
+<th align="center">SECURITY IMPACT</th>
+<th align="center">RECOMMENDED MITIGATION</th>
+</tr>
 
-  📫 [SECTION: ESTABLISH_COMMUNICATION_LINK]
+<tr>
+<td align="center"><code>SEC-001</code></td>
+<td align="center">🔴 <b>Critical</b></td>
+<td><b>OTP Leakage</b></td>
+<td>OTP information exposed through client-side or API responses, potentially weakening authentication controls.</td>
+<td>Generate and validate OTPs server-side. Never expose OTP values in API responses or client-side code.</td>
+</tr>
 
-  <div align="center">
-    <p>Available for Cybersecurity Consulting, Full Stack Roles, and Vulnerability Research Engagements!</p>
-    <br/>
+<tr>
+<td align="center"><code>SEC-002</code></td>
+<td align="center">🟠 <b>High</b></td>
+<td><b>Broken Object Level Authorization (BOLA)</b></td>
+<td>Improper object-level authorization can allow unauthorized access to resources through parameter manipulation.</td>
+<td>Enforce server-side object ownership and authorization checks on every request.</td>
+</tr>
 
-    <a href="https://chakreshram.in" target="_blank">
-      <img src="https://img.shields.io/badge/SYSTEM_PORTFOLIO-chakreshram.in-00FF66?style=for-the-badge&logo=gnu-bash&lo
-  goColor=black" alt="Portfolio Website" />
-    </a>
-    <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn" />
-    </a>
-    <a href="mailto:chakreshram11@gmail.com">
-      <img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email" />
-    </a>
-    <a href="https://www.instagram.com/chakreshram/" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram" />
-    </a>
+<tr>
+<td align="center"><code>SEC-003</code></td>
+<td align="center">🟠 <b>High</b></td>
+<td><b>Missing OTP Rate Limiting</b></td>
+<td>Unrestricted OTP requests may enable brute-force attempts, SMS flooding or automated abuse.</td>
+<td>Implement rate limiting, throttling, CAPTCHA and abuse detection.</td>
+</tr>
 
-    <br/><br/>
+<tr>
+<td align="center"><code>SEC-004</code></td>
+<td align="center">🟠 <b>High</b></td>
+<td><b>Information Disclosure</b></td>
+<td>Improper access controls can expose sensitive institutional or application information.</td>
+<td>Apply strict authorization, response filtering and input validation.</td>
+</tr>
 
-    <!-- Matrix Footer Wave -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=footer" width="100%"
-  alt="Footer Matrix Wave" />
+<tr>
+<td align="center"><code>SEC-005</code></td>
+<td align="center">🟠 <b>High</b></td>
+<td><b>FTP Misconfiguration</b></td>
+<td>Unauthenticated FTP access can expose internal directories or system files.</td>
+<td>Disable anonymous access and enforce hardened authentication.</td>
+</tr>
 
-  </div>
+<tr>
+<td align="center"><code>SEC-006</code></td>
+<td align="center">🟡 <b>Medium</b></td>
+<td><b>Unauthenticated Property Data Exposure</b></td>
+<td>Property APIs expose business information to unauthenticated users.</td>
+<td>Require appropriate authentication and authorization before serving sensitive data.</td>
+</tr>
+
+<tr>
+<td align="center"><code>SEC-007</code></td>
+<td align="center">🟡 <b>Medium</b></td>
+<td><b>API Discovery Exposure</b></td>
+<td>Public endpoints reveal backend routes, parameters or application structure.</td>
+<td>Restrict unnecessary endpoints and enforce route-level authorization.</td>
+</tr>
+
+<tr>
+<td align="center"><code>SEC-008</code></td>
+<td align="center">🟡 <b>Medium</b></td>
+<td><b>Admin Panel / Subdomain Exposure</b></td>
+<td>Public administrative gateways and unused subdomains increase the external attack surface.</td>
+<td>Restrict administrative interfaces and remove unused subdomains.</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `03`SECURITY TOOLKIT
+
+### `> tools --inventory`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">CATEGORY</th>
+<th align="center">TOOLS / TECHNOLOGIES</th>
+<th align="center">PRIMARY USAGE</th>
+</tr>
+
+<tr>
+<td align="center">🔎 <b>Web Security</b></td>
+<td>Burp Suite • OWASP ZAP</td>
+<td>Web and API security testing</td>
+</tr>
+
+<tr>
+<td align="center">🌐 <b>Network Analysis</b></td>
+<td>Wireshark • Nmap</td>
+<td>Network analysis and reconnaissance</td>
+</tr>
+
+<tr>
+<td align="center">💣 <b>Security Frameworks</b></td>
+<td>Metasploit</td>
+<td>Security testing and validation</td>
+</tr>
+
+<tr>
+<td align="center">🖧 <b>Networking</b></td>
+<td>Cisco Packet Tracer</td>
+<td>Network simulation and configuration</td>
+</tr>
+
+<tr>
+<td align="center">🐧 <b>Security OS</b></td>
+<td>Kali Linux • Ubuntu • Linux</td>
+<td>Security labs and development</td>
+</tr>
+
+<tr>
+<td align="center">🐍 <b>Automation</b></td>
+<td>Python • Bash</td>
+<td>Security automation and scripting</td>
+</tr>
+
+<tr>
+<td align="center">🧪 <b>Research</b></td>
+<td>CVE Analysis • PoC Development</td>
+<td>Vulnerability research</td>
+</tr>
+
+<tr>
+<td align="center">🔐 <b>Testing</b></td>
+<td>Authentication • Authorization • Access Control</td>
+<td>Application security assessment</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,python,js,react,nodejs,express,flask,mongodb,mysql,firebase,tailwind,git,github,docker,postman,vscode&perline=9" alt="Technical Stack"/>
+
+</div>
+
+---
+
+# `04`DEVELOPMENT STACK
+
+### `> development --stack`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">DOMAIN</th>
+<th align="center">TECHNOLOGIES</th>
+</tr>
+
+<tr>
+<td align="center">💻 <b>Programming Languages</b></td>
+<td>Python • JavaScript • HTML5 • CSS3 • Java</td>
+</tr>
+
+<tr>
+<td align="center">⚛️ <b>Frontend</b></td>
+<td>React.js • Tailwind CSS • HTML5 • CSS3</td>
+</tr>
+
+<tr>
+<td align="center">🟢 <b>Backend</b></td>
+<td>Node.js • Express.js • Python Flask</td>
+</tr>
+
+<tr>
+<td align="center">🌐 <b>API Development</b></td>
+<td>REST APIs • API Integration</td>
+</tr>
+
+<tr>
+<td align="center">🗄️ <b>Databases</b></td>
+<td>MongoDB • MySQL • Firebase</td>
+</tr>
+
+<tr>
+<td align="center">🔧 <b>Version Control</b></td>
+<td>Git • GitHub</td>
+</tr>
+
+<tr>
+<td align="center">🐳 <b>DevOps / Tools</b></td>
+<td>Docker • Postman • VS Code</td>
+</tr>
+
+<tr>
+<td align="center">🐧 <b>Operating Systems</b></td>
+<td>Kali Linux • Linux • Ubuntu • Windows</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `05`AI TOOLCHAIN
+
+### `> ai --stack`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">AI TOOL</th>
+<th align="center">USAGE</th>
+</tr>
+
+<tr>
+<td align="center">🤖 <b>ChatGPT</b></td>
+<td>Programming assistance • Research • Debugging • Documentation</td>
+</tr>
+
+<tr>
+<td align="center">🧠 <b>Claude Code</b></td>
+<td>Code generation • Refactoring • Development workflows</td>
+</tr>
+
+<tr>
+<td align="center">✨ <b>Gemini AI</b></td>
+<td>Research • Development assistance • AI workflows</td>
+</tr>
+
+<tr>
+<td align="center">📊 <b>Gamma AI</b></td>
+<td>Presentations • Documentation • Content generation</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ChatGPT-00FF41?style=for-the-badge&logo=openai&logoColor=black&labelColor=050505" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude%20Code-00FF41?style=for-the-badge&logo=anthropic&logoColor=black&labelColor=050505" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-00FF41?style=for-the-badge&logo=google&logoColor=black&labelColor=050505" alt="Gemini AI"/>
+<img src="https://img.shields.io/badge/Gamma%20AI-00FF41?style=for-the-badge&labelColor=050505" alt="Gamma AI"/>
+
+</div>
+
+---
+
+# `06`CREATIVE TOOLCHAIN
+
+### `> creative --tools`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">TOOL</th>
+<th align="center">CATEGORY</th>
+<th align="center">USAGE</th>
+</tr>
+
+<tr>
+<td align="center">🎨 <b>Adobe Photoshop</b></td>
+<td align="center">Image Editing</td>
+<td>Photo editing • Enhancement • Graphic Design</td>
+</tr>
+
+<tr>
+<td align="center">🎬 <b>CapCut</b></td>
+<td align="center">Video Editing</td>
+<td>Video editing • Short-form content</td>
+</tr>
+
+<tr>
+<td align="center">🎞️ <b>DaVinci Resolve</b></td>
+<td align="center">Post Production</td>
+<td>Video editing • Color grading • Post-production</td>
+</tr>
+
+<tr>
+<td align="center">🖌️ <b>Canva</b></td>
+<td align="center">Design</td>
+<td>Graphics • Presentations • Social media design</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Photoshop-00FF41?style=for-the-badge&logo=adobephotoshop&logoColor=black&labelColor=050505" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/CapCut-00FF41?style=for-the-badge&logo=capcut&logoColor=black&labelColor=050505" alt="CapCut"/>
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-00FF41?style=for-the-badge&logo=davinciresolve&logoColor=black&labelColor=050505" alt="DaVinci Resolve"/>
+<img src="https://img.shields.io/badge/Canva-00FF41?style=for-the-badge&logo=canva&logoColor=black&labelColor=050505" alt="Canva"/>
+
+</div>
+
+---
+
+# `07`PROFESSIONAL EXPERIENCE
+
+### `> career --experience`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">ORGANIZATION</th>
+<th align="center">ROLE</th>
+<th align="center">DURATION</th>
+<th align="center">RESPONSIBILITIES</th>
+</tr>
+
+<tr>
+<td align="center">🔐 <b>OSMSEC</b></td>
+<td align="center"><b>Content Engineer</b></td>
+<td align="center">3 Months</td>
+<td>CVE Analysis • Vulnerability Reproduction • Security Labs • Bash Automation • PoC Development • Technical Documentation</td>
+</tr>
+
+<tr>
+<td align="center">💻 <b>Mana Kirana</b></td>
+<td align="center"><b>Full Stack Developer</b></td>
+<td align="center">6 Months</td>
+<td>React.js • REST APIs • Responsive Interfaces • Frontend Development • Web Applications</td>
+</tr>
+
+<tr>
+<td align="center">⚙️ <b>Lifebox Next Gen</b></td>
+<td align="center"><b>Developer</b></td>
+<td align="center">3 Months</td>
+<td>Feature Development • Bug Fixing • Testing • UX Improvements • Production Application Maintenance</td>
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<th align="center">ORGANIZATION</th>
+<th align="center">KEY TECHNICAL AREAS</th>
+</tr>
+
+<tr>
+<td align="center"><b>OSMSEC</b></td>
+<td>CVE Analysis • Vulnerability Research • PoC Development • Bash • Security Labs</td>
+</tr>
+
+<tr>
+<td align="center"><b>Mana Kirana</b></td>
+<td>React.js • JavaScript • REST APIs • Web Development</td>
+</tr>
+
+<tr>
+<td align="center"><b>Lifebox Next Gen</b></td>
+<td>Web Development • Testing • Bug Fixing • Production Applications</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `08`PROJECTS
+
+### `> projects --featured`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">PROJECT</th>
+<th align="center">TECHNOLOGY</th>
+<th align="center">CATEGORY</th>
+<th align="center">DESCRIPTION</th>
+<th align="center">LINK</th>
+</tr>
+
+<tr>
+<td align="center">⚡ <b>TENSILE</b></td>
+<td align="center">React.js • Firebase</td>
+<td align="center">Web Platform</td>
+<td>Web platform for managing and presenting project-related content through an administrative interface.</td>
+<td align="center"><a href="https://sgtensiles.com">Live Demo</a></td>
+</tr>
+
+<tr>
+<td align="center">🛠️ <b>Wordlist Generator</b></td>
+<td align="center">Python • CLI</td>
+<td align="center">Security Tool</td>
+<td>Context-aware wordlist generation utility for authorized security testing and password auditing environments.</td>
+<td align="center"><a href="https://github.com/chakreshram11">GitHub</a></td>
+</tr>
+
+<tr>
+<td align="center">🛡️ <b>Cyber Crew Portal</b></td>
+<td align="center">React.js • Tailwind CSS</td>
+<td align="center">Community Platform</td>
+<td>Interactive cybersecurity community portal featuring members, events and security resources.</td>
+<td align="center"><a href="https://cybercrew.online">Portfolio</a></td>
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<th align="center">PROJECT</th>
+<th align="center">FRONTEND</th>
+<th align="center">BACKEND / DATA</th>
+<th align="center">SECURITY / OTHER</th>
+</tr>
+
+<tr>
+<td align="center">⚡ <b>TENSILE</b></td>
+<td align="center">React.js</td>
+<td align="center">Firebase</td>
+<td align="center">Admin Content Management</td>
+</tr>
+
+<tr>
+<td align="center">🛠️ <b>Wordlist Generator</b></td>
+<td align="center">CLI</td>
+<td align="center">Python</td>
+<td align="center">Security Automation</td>
+</tr>
+
+<tr>
+<td align="center">🛡️ <b>Cyber Crew Portal</b></td>
+<td align="center">React.js • Tailwind CSS</td>
+<td align="center">—</td>
+<td align="center">Cybersecurity Community</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `09`EDUCATION
+
+### `> education --history`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">QUALIFICATION</th>
+<th align="center">INSTITUTION</th>
+<th align="center">PERIOD</th>
+</tr>
+
+<tr>
+<td align="center">🎓 <b>B.Tech — Cybersecurity</b></td>
+<td align="center">Kakinada Institute of Engineering & Technology</td>
+<td align="center">2023 – 2026</td>
+</tr>
+
+<tr>
+<td align="center">💻 <b>Diploma — Computer Engineering</b></td>
+<td align="center">SBTET Vijayawada</td>
+<td align="center">2020 – 2023</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `10`CERTIFICATIONS
+
+### `> certifications --database`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">#</th>
+<th align="center">CERTIFICATION</th>
+<th align="center">ISSUING ORGANIZATION</th>
+<th align="center">DATE</th>
+</tr>
+
+<tr>
+<td align="center"><code>01</code></td>
+<td><b>Fortinet Network Security Associate</b></td>
+<td align="center">AICTE Platform</td>
+<td align="center">Aug 2025</td>
+</tr>
+
+<tr>
+<td align="center"><code>02</code></td>
+<td><b>IoT — Internet of Things</b></td>
+<td align="center">SWAYAM NPTEL</td>
+<td align="center">May 2025</td>
+</tr>
+
+<tr>
+<td align="center"><code>03</code></td>
+<td><b>Palo Alto Cybersecurity Virtual Internship</b></td>
+<td align="center">AICTE Platform</td>
+<td align="center">Mar 2025</td>
+</tr>
+
+<tr>
+<td align="center"><code>04</code></td>
+<td><b>Zscaler Networking Virtual Internship</b></td>
+<td align="center">AICTE Platform</td>
+<td align="center">Dec 2024</td>
+</tr>
+
+<tr>
+<td align="center"><code>05</code></td>
+<td><b>Operating System Basics</b></td>
+<td align="center">Cisco Networking Academy</td>
+<td align="center">Oct 2024</td>
+</tr>
+
+<tr>
+<td align="center"><code>06</code></td>
+<td><b>Cyber Security Awareness Training</b></td>
+<td align="center">Amazon</td>
+<td align="center">Nov 2021</td>
+</tr>
+
+<tr>
+<td align="center"><code>07</code></td>
+<td><b>Introduction to Artificial Intelligence</b></td>
+<td align="center">Great Learning</td>
+<td align="center">Nov 2021</td>
+</tr>
+
+<tr>
+<td align="center"><code>08</code></td>
+<td><b>Excel for Beginners</b></td>
+<td align="center">Great Learning</td>
+<td align="center">Nov 2021</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `11`SKILL MATRIX
+
+### `> skills --matrix`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">DOMAIN</th>
+<th align="center">SKILLS</th>
+</tr>
+
+<tr>
+<td align="center">🔐 <b>Cybersecurity</b></td>
+<td>Web Security • API Security • VAPT • Authentication • Authorization • Access Control • CVE Analysis</td>
+</tr>
+
+<tr>
+<td align="center">🐍 <b>Programming</b></td>
+<td>Python • JavaScript • HTML5 • CSS3 • Java</td>
+</tr>
+
+<tr>
+<td align="center">⚛️ <b>Frontend</b></td>
+<td>React.js • Tailwind CSS</td>
+</tr>
+
+<tr>
+<td align="center">🟢 <b>Backend</b></td>
+<td>Node.js • Express.js • Python Flask • REST APIs</td>
+</tr>
+
+<tr>
+<td align="center">🗄️ <b>Database</b></td>
+<td>MongoDB • MySQL • Firebase</td>
+</tr>
+
+<tr>
+<td align="center">🌐 <b>Networking</b></td>
+<td>TCP/IP • Network Analysis • Cisco Packet Tracer • Wireshark</td>
+</tr>
+
+<tr>
+<td align="center">🛡️ <b>Security Tools</b></td>
+<td>Burp Suite • Nmap • OWASP ZAP • Metasploit</td>
+</tr>
+
+<tr>
+<td align="center">🐧 <b>Operating Systems</b></td>
+<td>Kali Linux • Linux • Ubuntu • Windows</td>
+</tr>
+
+<tr>
+<td align="center">🚀 <b>Development Tools</b></td>
+<td>Git • GitHub • Docker • Postman • VS Code</td>
+</tr>
+
+<tr>
+<td align="center">🤖 <b>AI Tools</b></td>
+<td>ChatGPT • Claude Code • Gemini AI • Gamma AI</td>
+</tr>
+
+<tr>
+<td align="center">🎨 <b>Creative Tools</b></td>
+<td>Photoshop • CapCut • DaVinci Resolve • Canva</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `12`GITHUB TELEMETRY
+
+### `> github --telemetry`
+
+<div align="center">
+
+<a href="https://github.com/chakreshram11">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chakreshram11&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakreshram11&layout=compact&theme=chartreuse-dark&hide_border=true" height="175" alt="Top Languages"/>
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=chakreshram11&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chakreshram11&theme=github-compact&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# `13`SECURITY METHODOLOGY
+
+### `> methodology --execute`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">PHASE</th>
+<th align="center">OPERATION</th>
+<th align="center">OBJECTIVE</th>
+</tr>
+
+<tr>
+<td align="center"><code>01</code></td>
+<td align="center">🔎 <b>Discover</b></td>
+<td>Understand the application and attack surface</td>
+</tr>
+
+<tr>
+<td align="center"><code>02</code></td>
+<td align="center">🗺️ <b>Enumerate</b></td>
+<td>Identify endpoints, services and technologies</td>
+</tr>
+
+<tr>
+<td align="center"><code>03</code></td>
+<td align="center">🧪 <b>Test</b></td>
+<td>Validate security controls</td>
+</tr>
+
+<tr>
+<td align="center"><code>04</code></td>
+<td align="center">✅ <b>Validate</b></td>
+<td>Confirm impact and reproducibility</td>
+</tr>
+
+<tr>
+<td align="center"><code>05</code></td>
+<td align="center">📝 <b>Document</b></td>
+<td>Record evidence, impact and remediation</td>
+</tr>
+
+<tr>
+<td align="center"><code>06</code></td>
+<td align="center">🛡️ <b>Secure</b></td>
+<td>Recommend and implement appropriate fixes</td>
+</tr>
+
+</table>
+
+</div>
+
+> **Security is not about breaking systems. It is about understanding them well enough to make them stronger.**
+
+---
+
+# `14`CAREER INTERESTS
+
+### `> career --targets`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">SECURITY TRACK</th>
+<th align="center">ENGINEERING TRACK</th>
+<th align="center">RESEARCH TRACK</th>
+</tr>
+
+<tr>
+<td align="center">🔐 Application Security</td>
+<td align="center">💻 Full Stack Development</td>
+<td align="center">🐛 Vulnerability Research</td>
+</tr>
+
+<tr>
+<td align="center">🛡️ Product Security</td>
+<td align="center">⚙️ Backend Development</td>
+<td align="center">🔎 CVE Analysis</td>
+</tr>
+
+<tr>
+<td align="center">🧪 Penetration Testing</td>
+<td align="center">🌐 API Development</td>
+<td align="center">🧬 PoC Development</td>
+</tr>
+
+<tr>
+<td align="center">🔒 Security Engineering</td>
+<td align="center">🚀 Secure Software</td>
+<td align="center">⚙️ Security Automation</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `15`CURRENT FOCUS
+
+### `> mission --current`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">PRIORITY</th>
+<th align="center">FOCUS AREA</th>
+<th align="center">OBJECTIVE</th>
+</tr>
+
+<tr>
+<td align="center"><code>01</code></td>
+<td align="center">🔐 <b>Application Security</b></td>
+<td>Improve practical web application security skills</td>
+</tr>
+
+<tr>
+<td align="center"><code>02</code></td>
+<td align="center">🌐 <b>API Security</b></td>
+<td>Analyze authentication, authorization and API controls</td>
+</tr>
+
+<tr>
+<td align="center"><code>03</code></td>
+<td align="center">🐛 <b>Vulnerability Research</b></td>
+<td>Study and reproduce real-world vulnerabilities</td>
+</tr>
+
+<tr>
+<td align="center"><code>04</code></td>
+<td align="center">🔎 <b>CVE Analysis</b></td>
+<td>Understand vulnerability mechanics and remediation</td>
+</tr>
+
+<tr>
+<td align="center"><code>05</code></td>
+<td align="center">⚙️ <b>Security Automation</b></td>
+<td>Automate repetitive security workflows</td>
+</tr>
+
+<tr>
+<td align="center"><code>06</code></td>
+<td align="center">💻 <b>Full Stack Development</b></td>
+<td>Build secure and scalable applications</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# `16`CONTACT
+
+### `> connect --channels`
+
+<div align="center">
+
+<table align="center">
+<tr>
+<th align="center">CHANNEL</th>
+<th align="center">ADDRESS</th>
+</tr>
+
+<tr>
+<td align="center">🌐 <b>Portfolio</b></td>
+<td align="center"><a href="https://chakreshram.in">chakreshram.in</a></td>
+</tr>
+
+<tr>
+<td align="center">💻 <b>GitHub</b></td>
+<td align="center"><a href="https://github.com/chakreshram11">github.com/chakreshram11</a></td>
+</tr>
+
+<tr>
+<td align="center">🔗 <b>LinkedIn</b></td>
+<td align="center"><a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/">Chakresh Ram</a></td>
+</tr>
+
+<tr>
+<td align="center">✉️ <b>Email</b></td>
+<td align="center"><a href="mailto:chakreshram11@gmail.com">chakreshram11@gmail.com</a></td>
+</tr>
+
+<tr>
+<td align="center">📸 <b>Instagram</b></td>
+<td align="center"><a href="https://www.instagram.com/chakreshram/">@chakreshram</a></td>
+</tr>
+
+</table>
+
+<br>
+
+
+<a href="https://chakreshram.in"> <img src="https://img.shields.io/badge/%3E_%20VISIT%20PORTFOLIO-00FF41?style=for-the-badge&labelColor=050505" alt="Visit Portfolio"/> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:003300,70:001A00,100:000000&height=150&section=footer" width="100%" alt="Hacker Theme Footer"/>
+
+<br>
+
+</div>
+
+<!-- ============================================================ END OF README ============================================================ -->
+
