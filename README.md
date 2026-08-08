@@ -51,28 +51,35 @@
   <!--           SYSTEM OPERATOR PROFILE          -->
   <!-- ========================================== -->
 
-  ## 💻 `[SECTION: SYSTEM_OPERATOR_INFO]`
+  💻 [SECTION: SYSTEM_OPERATOR_INFO]
 
   <div align="center">
 
-  | Metric | Clearance & Executive Track Record |
-  | :---: | :--- |
-  | **Operator** | `Kudupudi Chakresh Ram` |
-  | **Designations** | `Cybersecurity Researcher` • `Full Stack Engineer` • `Content Engineer` |
-  | **Academic Credentials** | `B.Tech in Cybersecurity (2022 - 2026)` • `Diploma in Computer Engineering (2020 - 2023)`
-  |
-  | **Vulnerability Intel** | 🛡️ **8 Confirmed Security Vulnerabilities Discovered** *(Critical/High: BOLA, OTP Leakage,
-  Access Control)* |
-  | **Industry Track Record** | 💼 **12+ Months Experience** across 3 Tech Organizations *(Osmsec, Manakirana, Lifebox
-  Next Gen)* |
-  | **Certified Skills** | 📜 **8 Professional Certifications** *(Fortinet, Palo Alto, Zscaler, Cisco, Amazon, NPTEL)* |
-  | **Digital HQ** | 🌐 [**chakreshram.in**](https://chakreshram.in) |
+  ┌─────────────────────┬───────────────────────────────────────────────────────────────────────────────────────────┐
+  │       Metric        │                            Clearance & Executive Track Record                             │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │      Operator       │ Kudupudi Chakresh Ram                                                                     │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │    Designations     │ Cybersecurity Researcher • Full Stack Engineer • Content Engineer                         │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │      Academic       │ B.Tech in Cybersecurity (2022 - 2026) • Diploma in Computer Engineering (2020 - 2023)     │
+  │     Credentials     │                                                                                           │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Vulnerability Intel │ 🛡️ 8 Confirmed Security Vulnerabilities Discovered (Critical/High: BOLA, OTP Leakage,     │
+  │                     │ Access Control)                                                                           │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │   Industry Track    │ 💼 12+ Months Experience across 3 Tech Organizations (Osmsec, Manakirana, Lifebox Next    │
+  │       Record        │ Gen)                                                                                      │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │  Certified Skills   │ 📜 8 Professional Certifications (Fortinet, Palo Alto, Zscaler, Cisco, Amazon, NPTEL)     │
+  ├─────────────────────┼───────────────────────────────────────────────────────────────────────────────────────────┤
+  │     Digital HQ      │ 🌐 chakreshram.in                                                                         │
+  └─────────────────────┴───────────────────────────────────────────────────────────────────────────────────────────┘
 
   </div>
 
   <br/>
 
-  ```json
   {
     "operator_name": "Kudupudi Chakresh Ram",
     "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
@@ -464,4 +471,3 @@
   alt="Footer Matrix Wave" />
 
   </div>
-  ```
