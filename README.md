@@ -1,25 +1,25 @@
 <!-- ========================================== -->
-<!--            HEADER & ANIMATED TITLE         -->
+<!--            HEADER & DYNAMIC BANNER         -->
 <!-- ========================================== -->
 
 <div align="center">
 
   <!-- Dynamic Capsule Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Chakresh%20Ram&fontSize=68&fontAlignY=35&animation=twinkling&desc=Frontend%20Performance%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=22" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Kudupudi%20Chakresh%20Ram&fontSize=52&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Researcher%20%7C%20B.Tech%20%2726&descAlignY=65&descSize=18" width="100%" alt="Header Banner" />
   
   <br/>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://chakreshram.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=⚡+Frontend+Performance+Engineer;🚀+Specializing+in+Next.js%2C+React+%26+Core+Web+Vitals;💡+Crafting+Lightning-Fast+Web+Experiences;🌐+Explore+My+Portfolio+At+chakreshram.in" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=💻+Full+Stack+Developer;🛡️+Cybersecurity+Student+and+Researcher;⚡+Content+Engineer+at+Osmsec;🌐+Explore+My+Portfolio+At+chakreshram.in" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Portfolio Banner CTA & Status Badges -->
+  <!-- Status & Quick Badges -->
   <p align="center">
     <a href="https://chakreshram.in" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-chakreshram.in-0284C7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-chakreshram.in-0284C7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
     </a>
     <a href="https://github.com/chakreshram11">
       <img src="https://img.shields.io/github/followers/chakreshram11?label=Followers&style=for-the-badge&color=0284C7&logo=github&logoColor=white" alt="Followers" />
@@ -40,21 +40,21 @@
 <!--                  ABOUT ME                  -->
 <!-- ========================================== -->
 
-## 👤 About Me
+## 👤 Executive Profile
 
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>Hey there! 👋 I'm Chakresh Ram</h3>
-      <p>I'm a <b>Frontend Performance Engineer & Full Stack Developer</b> dedicated to building blazing-fast, visually captivating, and accessible web experiences. I specialize in optimizing Web Vitals, architecture for high-traffic frontends, and seamless full-stack integration.</p>
+      <h3>Greetings! 👋 I'm Kudupudi Chakresh Ram</h3>
+      <p>I am a passionate <b>Cybersecurity Student & Full Stack Developer</b> dedicated to building secure, scalable applications and identifying real-world security vulnerabilities. I thrive at the intersection of application development and ethical hacking — writing code that is resilient by design.</p>
       <br/>
       <ul>
-        <li>🌐 <b>Official Website:</b> Check out my work at <a href="https://chakreshram.in"><b>chakreshram.in</b></a></li>
-        <li>⚡ <b>Core Focus:</b> Web Performance Optimization, Core Web Vitals, Micro-Frontends & React Architecture.</li>
-        <li>🌱 <b>Exploring:</b> Advanced Edge Computing, Server-Driven UI & Cloud Architecture.</li>
-        <li>💼 <b>Availability:</b> Open for High-Impact Frontend/Full-Stack Engineering & Performance Consulting.</li>
-        <li>💬 <b>Ask Me About:</b> Next.js SSR/ISR, React Performance Tuning, Bundle Optimization, Tailwind CSS.</li>
-        <li>📫 <b>Get In Touch:</b> Drop a message at <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> or connect via <a href="https://linkedin.com/in/chakresh-ram"><b>LinkedIn</b></a>.</li>
+        <li>🎓 <b>Education:</b> B.Tech in <b>Cybersecurity</b> (2022 - 2026) | Diploma in <b>Computer Engineering</b> (2020 - 2023)</li>
+        <li>💼 <b>Experience:</b> 12+ Months across 3 Internships (Manakirana, Osmsec, Lifebox Next Gen)</li>
+        <li>🛡️ <b>Security Discovered:</b> 2 Verified Security Findings (Information Disclosure & FTP Misconfig)</li>
+        <li>🌐 <b>Portfolio Website:</b> <a href="https://chakreshram.in" target="_blank"><b>chakreshram.in</b></a></li>
+        <li>💬 <b>Ask Me About:</b> React, Next.js, Node.js, Python Security Tooling, CVE Analysis & Web Penetration Testing</li>
+        <li>📫 <b>Get In Touch:</b> Drop an email at <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> or connect via <a href="https://linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><b>LinkedIn</b></a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -68,65 +68,110 @@
 <br/>
 
 <!-- ========================================== -->
-<!--           CORE COMPETENCIES & TECH         -->
+<!--            CAREER JOURNEY & INTERNSHIPS     -->
 <!-- ========================================== -->
 
-## 🛠️ Technology Stack & Engineering Skills
+## 💼 Career Journey & Work Experience
 
-<div align="center">
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Frontend & Performance** | `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `HTML5/CSS3` `Sass` |
-| **Performance Tools** | `Lighthouse` `Web Vitals` `Bundle Analyzer` `Vite` `Webpack` `Code Splitting` `Lazy Loading` |
-| **Backend & APIs** | `Node.js` `Express.js` `FastAPI` `REST APIs` `GraphQL` `PostgreSQL` `MongoDB` `Redis` |
-| **DevOps & Cloud** | `Vercel` `Docker` `AWS` `Git / GitHub` `GitHub Actions` `Nginx` `Linux / Bash` |
-| **Design & Testing** | `Figma` `Jest` `React Testing Library` `Postman` `VS Code` `PNPM / NPM` |
+<table width="100%">
+  <tr>
+    <th align="left" width="30%">Company & Role</th>
+    <th align="left" width="15%">Duration</th>
+    <th align="left" width="25%">Key Technologies</th>
+    <th align="left" width="30%">Impact & Responsibilities</th>
+  </tr>
+  <tr>
+    <td><b>Manakirana</b><br/><sub>Full Stack Developer</sub></td>
+    <td><code>6 Months</code></td>
+    <td><code>React</code> <code>Tailwind CSS</code> <code>REST APIs</code> <code>Agile</code></td>
+    <td>Built responsive UI components in React & Tailwind CSS. Implemented RESTful APIs and collaborated in Agile sprint reviews.</td>
+  </tr>
+  <tr>
+    <td><b>Osmsec</b><br/><sub>Content Engineer</sub></td>
+    <td><code>3 Months</code></td>
+    <td><code>CVE Analysis</code> <code>PoC Scripting</code> <code>Security Documentation</code></td>
+    <td>Analyzed assigned CVE numbers, created build scripts to reproduce setups, and generated <code>proof.txt</code> PoCs for verified vulnerabilities.</td>
+  </tr>
+  <tr>
+    <td><b>Lifebox Next Gen</b><br/><sub>Developer</sub></td>
+    <td><code>3 Months</code></td>
+    <td><code>Web Apps</code> <code>UX Design</code> <code>Unit Testing</code> <code>CI/CD</code></td>
+    <td>Developed core features for web applications, enhanced user experience, wrote unit tests, and improved CI/CD workflows.</td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Visual Tech Icons Grid -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,html,css,nodejs,express,postgres,mongodb,redis,docker,aws,git,github,vscode,postman,figma,vercel&perline=7" alt="Tech Stack Badges" />
-</a>
+<!-- ========================================== -->
+<!--          SECURITY RESEARCH & DISCOVERIES   -->
+<!-- ========================================== -->
 
-</div>
+## 🐛 Security Research & Vulnerabilities Discovered
+
+<table width="100%">
+  <tr>
+    <th align="left" width="25%">Vulnerability Type</th>
+    <th align="left" width="15%">Date</th>
+    <th align="left" width="60%">Technical Overview & Mitigation</th>
+  </tr>
+  <tr>
+    <td><b>🔒 Information Disclosure</b></td>
+    <td><code>Feb 2025</code></td>
+    <td>Identified improper access control exposing sensitive institutional data. Recommended robust access control rules & validation methodologies.</td>
+  </tr>
+  <tr>
+    <td><b>🌐 FTP Misconfiguration</b></td>
+    <td><code>Feb 2025</code></td>
+    <td>Discovered anonymous FTP access exposing confidential files. Suggested secure authentication mechanisms & server hardening protocols.</td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ========================================== -->
-<!--             FEATURED PROJECTS              -->
+<!--               FEATURED PROJECTS            -->
 <!-- ========================================== -->
 
-## 🚀 Featured Work & Portfolio Highlights
+## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Portfolio — chakreshram.in</h3>
+      <h3 align="center">⚡ Tensile — Web Platform & Admin Dashboard</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Live_Site-chakreshram.in-0284C7?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Commercial_Project-8000_INR-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
-      <p>My official digital home featuring interactive project showcases, performance engineering insights, and modern UI animations optimized for maximum Lighthouse scores.</p>
+      <p>A full-featured web platform with an integrated Firebase admin dashboard for managing content, users, and real-time data streaming.</p>
       <p align="center">
-        <a href="https://chakreshram.in" target="_blank"><b>🚀 Visit Portfolio (chakreshram.in)</b></a> • 
-        <a href="https://github.com/chakreshram11"><b>📂 GitHub Repo</b></a>
+        <a href="https://chakreshram.in" target="_blank"><b>🌐 Live Demo</b></a> • 
+        <a href="https://github.com/chakreshram11/react_portfolio"><b>📂 Code Base</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ High-Speed Web Application</h3>
+      <h3 align="center">🛠️ Custom Wordlist Generator</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Security_Tool-Python-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CLI-Automation-818CF8?style=flat-square" />
+      </p>
+      <p>A Python-based CLI security tool that generates customized wordlists for penetration testing workflows, password auditing, and research.</p>
+      <p align="center">
+        <a href="https://github.com/chakreshram11"><b>📂 Code Base</b></a> • 
+        <a href="https://chakreshram.in" target="_blank"><b>📖 Documentation</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🛡️ Cyber Crew — Cybersecurity Club Web Portal</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Community_Portal-Security-818CF8?style=flat-square" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-      <p>Full-stack web application built with a focus on sub-second load times, efficient bundle distribution, and reactive component state architecture.</p>
-      <p align="center">
-        <a href="https://chakreshram.in" target="_blank"><b>🌐 View Project Details</b></a> • 
-        <a href="https://github.com/chakreshram11"><b>📂 Code Repository</b></a>
-      </p>
+      <p>An interactive web platform designed for a cybersecurity community, featuring event scheduling, resource sharing, and member management.</p>
     </td>
   </tr>
 </table>
@@ -134,14 +179,63 @@
 <br/>
 
 <!-- ========================================== -->
-<!--            DYNAMIC GITHUB METRICS          -->
+<!--           CORE COMPETENCIES & TECH         -->
 <!-- ========================================== -->
 
-## 📊 Performance & Activity Metrics
+## 🛠️ Tech Stack & Skill Matrix
 
 <div align="center">
 
-  <!-- Activity Contribution Graph -->
+| Category | Skills & Environments |
+| :--- | :--- |
+| **Languages & Core (Proficiency)** | `React.js (85%)` `HTML5 (80%)` `Python (75%)` `Java (70%)` `CSS3 (70%)` `JavaScript (60%)` |
+| **Backend & Cloud** | `Python Flask (45%)` `Firebase (40%)` `Node.js (40%)` `Express.js (30%)` `REST APIs` |
+| **Operating Systems & Security** | `Windows (90%)` `Kali Linux OS (70%)` `Ubuntu Live Server (70%)` |
+| **Tools & Platforms** | `Git / GitHub` `Tailwind CSS` `Figma` `VS Code` `Postman` `Vercel` |
+
+<br/>
+
+<!-- Visual Tech Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,python,java,nodejs,express,firebase,tailwind,kali,ubuntu,windows,docker,aws,git,github,vscode,postman,figma&perline=7" alt="Tech Icons" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!--                 CERTIFICATIONS             -->
+<!-- ========================================== -->
+
+## 📜 Professional Certifications (8 Credentials)
+
+<div align="center">
+
+| Certification Title | Organization | Issued Date |
+| :--- | :---: | :---: |
+| **Fortinet Network Security Associate** | AICTE Platform | Aug 2025 |
+| **IoT (Internet of Things)** | Swayam NPTEL | May 2025 |
+| **Palo Alto Cybersecurity Virtual Internship** | AICTE Platform | Mar 2025 |
+| **Zscaler Networking Virtual Internship** | AICTE Platform | Dec 2024 |
+| **Operating System Basics** | CISCO Networking Academy | Oct 2024 |
+| **Cyber Security Awareness Training** | Amazon | Nov 2021 |
+| **Introduction to Artificial Intelligence** | Great Learning | Nov 2021 |
+| **Excel for Beginners** | Great Learning | Nov 2021 |
+
+</div>
+
+<br/>
+
+<!-- ========================================== -->
+<!--            DYNAMIC GITHUB METRICS          -->
+<!-- ========================================== -->
+
+## 📊 GitHub Performance & Analytics
+
+<div align="center">
+
+  <!-- Contribution Graph -->
   <a href="https://github.com/chakreshram11">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chakreshram11&theme=react-dark" width="100%" alt="GitHub Activity Graph" />
   </a>
@@ -170,66 +264,29 @@
 <br/>
 
 <!-- ========================================== -->
-<!--           INTERACTIVE SPOTLIGHT            -->
-<!-- ========================================== -->
-
-## ⚡ Interactive Spotlight
-
-<details>
-  <summary><b>🎯 Performance Engineering Focus & Goals</b></summary>
-  <br/>
-
-  - ⚡ **Web Vitals Excellence**: Target 100/100 Lighthouse scores across LCP, CLS, and INP metrics.
-  - 🚀 **Next.js & Edge Architectures**: Leverage Server Components (RSC) and Edge Middleware for instantaneous rendering.
-  - 📦 **Zero-Bloat Frontend Bundles**: Implement strict tree-shaking, dynamic imports, and asset compression pipelines.
-</details>
-
-<details>
-  <summary><b>💻 Workstation & Tooling Configuration</b></summary>
-  <br/>
-
-  - **Website**: <a href="https://chakreshram.in">chakreshram.in</a>
-  - **Operating Systems**: Windows 11 Pro (WSL2 Ubuntu) & Linux
-  - **IDE**: Visual Studio Code (Catppuccin Mocha / Tokyo Night)
-  - **Terminal**: Windows Terminal + Starship / Oh My Posh
-  - **Browser Tools**: Chrome DevTools, Lighthouse, Performance Profiler
-</details>
-
-<details>
-  <summary><b>📜 Core Development Principles</b></summary>
-  <br/>
-
-  1. **Speed is a Feature**: Optimized frontends drive better user engagement and conversion.
-  2. **Clean & Scalable Code**: Modular, self-documenting code built for team collaboration.
-  3. **Continuous Learning**: Staying ahead in the evolving JavaScript/TypeScript ecosystem.
-</details>
-
-<br/>
-
-<!-- ========================================== -->
 <!--              CONNECT & FOOTER              -->
 <!-- ========================================== -->
 
-## 📫 Connect & Collaborate
+## 📫 Connect With Me
 
 <div align="center">
-  <p>Explore my complete portfolio, featured case studies, and articles at <a href="https://chakreshram.in"><b>chakreshram.in</b></a>!</p>
+  <p>I am open to full-time opportunities, security research collaborations, and software engineering roles!</p>
   <br/>
 
   <a href="https://chakreshram.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-chakreshram.in-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="https://linkedin.com/in/chakresh-ram">
+  <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:chakreshram11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/chakreshram11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/chakreshram/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/X%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://www.facebook.com/chakresh.ram.1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
   <br/><br/>
