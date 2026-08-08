@@ -37,43 +37,59 @@
 <br/>
 
 <!-- ========================================== -->
-<!--           TERMINAL SHELL BIO               -->
+<!--           SYSTEM OPERATOR PROFILE          -->
 <!-- ========================================== -->
 
 ## 💻 `[SECTION: SYSTEM_OPERATOR_INFO]`
+
+<div align="center">
+
+| Metric | Clearance & Executive Track Record |
+| :---: | :--- |
+| **Operator** | `Kudupudi Chakresh Ram` |
+| **Designations** | `Cybersecurity Researcher` • `Full Stack Engineer` • `Content Engineer` |
+| **Academic Credentials** | `B.Tech in Cybersecurity (2022 - 2026)` • `Diploma in Computer Engineering (2020 - 2023)` |
+| **Vulnerability Intel** | 🛡️ **8 Confirmed Security Vulnerabilities Discovered** *(Critical/High: BOLA, OTP Leakage, Access Control)* |
+| **Industry Track Record** | 💼 **12+ Months Experience** across 3 Tech Organizations *(Osmsec, Manakirana, Lifebox Next Gen)* |
+| **Certified Skills** | 📜 **8 Professional Certifications** *(Fortinet, Palo Alto, Zscaler, Cisco, Amazon, NPTEL)* |
+| **Digital HQ** | 🌐 [**chakreshram.in**](https://chakreshram.in) |
+
+</div>
+
+<br/>
 
 ```bash
 root@chakresh:~$ cat /etc/operator_profile.json
 {
   "operator_name": "Kudupudi Chakresh Ram",
-  "status": "ONLINE // OPEN_FOR_SECURITY_ENGAGEMENTS",
-  "roles": ["Full Stack Developer", "Cybersecurity Researcher", "Content Engineer", "Photoshop Editor"],
-  "education": {
-    "degree": "B.Tech in Cyber Security (2022 - 2026)",
-    "diploma": "Computer Engineering (2020 - 2023)"
+  "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
+  "specialization": {
+    "security_research": ["Web Penetration Testing", "API Audit", "CVE Analysis", "PoC Scripting", "BOLA & Auth Vulnerabilities"],
+    "full_stack": ["React.js", "Next.js", "Node.js", "Python Flask", "Firebase", "Tailwind CSS", "RESTful Architecture"],
+    "ai_and_tooling": ["Claude Code", "ChatGPT", "Wireshark", "Burp Suite", "Nmap", "Metasploit", "Adobe Photoshop"]
   },
-  "clearance_level": "LEVEL_3_ANALYST",
-  "track_record": {
-    "total_experience": "12+ Months across 3 Organizations",
-    "vulnerabilities_discovered": 8,
-    "certifications_acquired": 8
+  "metrics": {
+    "vulnerabilities_reported": 8,
+    "internship_tenure_months": 12,
+    "accredited_certifications": 8
   },
-  "portfolio_terminal": "https://chakreshram.in",
-  "contact": "chakreshram11@gmail.com"
+  "digital_terminal": "https://chakreshram.in",
+  "primary_contact": "chakreshram11@gmail.com"
 }
 ```
 
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3><code>> IDENTITY_VERIFIED // KUDUPUDI CHAKRESH RAM</code></h3>
-      <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the nexus of application security, vulnerability research, penetration testing, and modern web engineering. I specialize in discovering critical security flaws (OTP leaks, BOLA, access control bypasses), analyzing CVEs, and engineering resilient full-stack systems.</p>
+      <h3><code>> EXECUTIVE_SUMMARY // KUDUPUDI CHAKRESH RAM</code></h3>
+      <p>I am an ambitious <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the convergence of application security, vulnerability research, penetration testing, and modern full-stack web development. With 12+ months of industry experience across 3 technology firms and 8 accredited certifications, I specialize in uncovering critical application flaws (such as OTP leaks, BOLA, and unauthenticated endpoints) and engineering resilient software architectures.</p>
       <br/>
       <ul>
-        <li>⚡ <b>Primary Directive:</b> Vulnerability Research, Web App Security, API Audit, CVE PoC Generation & Full Stack Dev.</li>
-        <li>🛡️ <b>Security Research:</b> 8 Confirmed Vulnerability Discoveries (BOLA, OTP Leakage, Unauthenticated Exposure, API AC, etc.).</li>
-        <li>🌐 <b>Main Console:</b> <a href="https://chakreshram.in" target="_blank"><b>chakreshram.in</b></a></li>
-        <li>💬 <b>Direct Enquiries:</b> <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> | <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><b>LinkedIn</b></a></li>
+        <li>⚡ <b>Core Focus Areas:</b> Application Security Audits, Web Vitals Optimization, API Security, CVE Reproduction, and Scalable Full-Stack Systems.</li>
+        <li>🛡️ <b>Security Track Record:</b> 8 Discovered Security Vulnerabilities (OTP Leakage, BOLA, Rate Limit Flaws, Property Data Exposure, API Discovery AC).</li>
+        <li>💼 <b>Professional Roles:</b> Former Content Engineer at <b>Osmsec</b>, Full Stack Dev at <b>Manakirana</b>, Developer at <b>Lifebox Next Gen</b>.</li>
+        <li>🌐 <b>Portfolio Portal:</b> <a href="https://chakreshram.in" target="_blank"><b>chakreshram.in</b></a></li>
+        <li>📫 <b>Direct Contact:</b> <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> | <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><b>LinkedIn</b></a></li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
