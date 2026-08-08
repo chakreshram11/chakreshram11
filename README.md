@@ -58,47 +58,67 @@
 
 <br/>
 
-```bash
-root@chakresh:~$ cat /etc/operator_profile.json
-{
-  "operator_name": "Kudupudi Chakresh Ram",
-  "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
-  "specialization": {
-    "security_research": ["Web Penetration Testing", "API Audit", "CVE Analysis", "PoC Scripting", "BOLA & Auth Vulnerabilities"],
-    "full_stack": ["React.js", "Next.js", "Node.js", "Python Flask", "Firebase", "Tailwind CSS", "RESTful Architecture"],
-    "ai_and_tooling": ["Claude Code", "ChatGPT", "Wireshark", "Burp Suite", "Nmap", "Metasploit", "Adobe Photoshop"]
-  },
-  "metrics": {
-    "vulnerabilities_reported": 8,
-    "internship_tenure_months": 12,
-    "accredited_certifications": 8
-  },
-  "digital_terminal": "https://chakreshram.in",
-  "primary_contact": "chakreshram11@gmail.com"
-}
-```
+ <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3><code>> EXECUTIVE_SUMMARY // KUDUPUDI CHAKRESH RAM</code></h3>
-      <p>I am an ambitious <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the convergence of application security, vulnerability research, penetration testing, and modern full-stack web development. With 12+ months of industry experience across 3 technology firms and 8 accredited certifications, I specialize in uncovering critical application flaws (such as OTP leaks, BOLA, and unauthenticated endpoints) and engineering resilient software architectures.</p>
-      <br/>
-      <ul>
-        <li>⚡ <b>Core Focus Areas:</b> Application Security Audits, Web Vitals Optimization, API Security, CVE Reproduction, and Scalable Full-Stack Systems.</li>
-        <li>🛡️ <b>Security Track Record:</b> 8 Discovered Security Vulnerabilities (OTP Leakage, BOLA, Rate Limit Flaws, Property Data Exposure, API Discovery AC).</li>
-        <li>💼 <b>Professional Roles:</b> Former Content Engineer at <b>Osmsec</b>, Full Stack Dev at <b>Manakirana</b>, Developer at <b>Lifebox Next Gen</b>.</li>
-        <li>🌐 <b>Portfolio Portal:</b> <a href="https://chakreshram.in" target="_blank"><b>chakreshram.in</b></a></li>
-        <li>📫 <b>Direct Contact:</b> <a href="mailto:chakreshram11@gmail.com"><b>chakreshram11@gmail.com</b></a> | <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><b>LinkedIn</b></a></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://chakreshram.in">
-        <img src="https://i.giphy.com/1is4K4y0oWyyGnWTSh.gif" width="100%" style="border-radius: 10px; border: 2px solid #00FF66;" alt="Cyber Matrix GIF" />
-      </a>
-    </td>
-  </tr>
-</table>
+  ```json
+  {
+    "operator_name": "Kudupudi Chakresh Ram",
+    "status": "ONLINE // AVAILABLE_FOR_SECURITY_AUDITS_AND_ENGAGEMENTS",
+    "specializations": {
+      "security_research": ["Web Penetration Testing", "API Audits", "CVE Analysis", "PoC Scripting", "BOLA & Auth
+  Audits"],
+      "full_stack": ["React.js", "Next.js", "Node.js", "Python Flask", "Firebase", "Tailwind CSS"],
+      "tooling": ["Claude Code", "Wireshark", "Burp Suite", "Nmap", "Metasploit"]
+    },
+    "metrics": {
+      "vulnerabilities_discovered": 8,
+      "industry_experience_months": 12,
+      "accredited_certifications": 8
+    },
+    "terminal": "https://chakreshram.in",
+    "contact": "chakreshram11@gmail.com"
+  }
+
+  </div>
+
+  <br/>
+
+  <table width="100%">
+    <tr>
+      <td width="65%" valign="top">
+        <h3><code>> EXECUTIVE_SUMMARY // KUDUPUDI CHAKRESH RAM</code></h3>
+        <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the convergence of application
+  security, vulnerability research, and modern web engineering. With 12+ months of industry experience across 3
+  technology firms and 8 accredited certifications, I specialize in identifying high-impact vulnerabilities (BOLA, OTP
+  leakage, authorization bypasses) and building secure, scalable software architectures.</p>
+        <hr/>
+        <p>
+          <a href="https://chakreshram.in"><img
+  src="https://img.shields.io/badge/PORTFOLIO-chakreshram.in-00FF66?style=flat-square&logo=gnu-bash&logoColor=black"
+  /></a>
+          <a href="mailto:chakreshram11@gmail.com"><img
+  src="https://img.shields.io/badge/EMAIL-chakreshram11%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
+  /></a>
+          <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><img
+  src="https://img.shields.io/badge/LINKEDIN-Chakresh_Ram-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        </p>
+        <ul>
+          <li>⚡ <b>Focus:</b> Application Security Audits, Web Vitals Optimization, API Security, CVE
+  Reproduction.</li>
+          <li>🛡️ <b>Track Record:</b> 8 Confirmed Security Flaws (OTP Leaks, BOLA, Rate Limiting, API Auth).</li>
+          <li>💼 <b>Roles:</b> Ex-Content Engineer at <b>Osmsec</b>, Full Stack Dev at <b>Manakirana</b>, Dev at
+  <b>Lifebox Next Gen</b>.</li>
+        </ul>
+      </td>
+      <td width="35%" align="center" valign="top">
+        <br/>
+        <a href="https://chakreshram.in">
+          <img src="https://i.giphy.com/1is4K4y0oWyyGnWTSh.gif" width="100%" alt="Cyber Matrix GIF" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  ```
 
 <br/>
 
