@@ -58,8 +58,6 @@
 
 <br/>
 
- <div align="center">
-
   ```json
   {
     "operator_name": "Kudupudi Chakresh Ram",
@@ -79,29 +77,34 @@
     "contact": "chakreshram11@gmail.com"
   }
 
-  </div>
-
   <br/>
 
-  <table width="100%">
+  <table border="0" width="100%">
     <tr>
-      <td width="65%" valign="top">
+      <td width="63%" valign="top">
         <h3><code>> EXECUTIVE_SUMMARY // KUDUPUDI CHAKRESH RAM</code></h3>
         <p>I am a <b>Cybersecurity Researcher & Full Stack Engineer</b> operating at the convergence of application
   security, vulnerability research, and modern web engineering. With 12+ months of industry experience across 3
   technology firms and 8 accredited certifications, I specialize in identifying high-impact vulnerabilities (BOLA, OTP
   leakage, authorization bypasses) and building secure, scalable software architectures.</p>
-        <hr/>
+        <br/>
         <p>
-          <a href="https://chakreshram.in"><img
-  src="https://img.shields.io/badge/PORTFOLIO-chakreshram.in-00FF66?style=flat-square&logo=gnu-bash&logoColor=black"
-  /></a>
-          <a href="mailto:chakreshram11@gmail.com"><img
-  src="https://img.shields.io/badge/EMAIL-chakreshram11%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"
-  /></a>
-          <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/"><img
-  src="https://img.shields.io/badge/LINKEDIN-Chakresh_Ram-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+          <a href="https://chakreshram.in" target="_blank">
+            <img
+  src="https://img.shields.io/badge/PORTFOLIO-chakreshram.in-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black"
+  alt="Portfolio" />
+          </a>
+          <a href="mailto:chakreshram11@gmail.com">
+            <img src="https://img.shields.io/badge/EMAIL-chakreshram11%40gmail.com-EA4335?style=for-the-badge&logo=gmail
+  &logoColor=white" alt="Email" />
+          </a>
+          <a href="https://www.linkedin.com/in/chakresh-ram-kudupudi-85a6a0256/" target="_blank">
+            <img
+  src="https://img.shields.io/badge/LINKEDIN-Chakresh_Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn" />
+          </a>
         </p>
+        <br/>
         <ul>
           <li>⚡ <b>Focus:</b> Application Security Audits, Web Vitals Optimization, API Security, CVE
   Reproduction.</li>
@@ -110,18 +113,16 @@
   <b>Lifebox Next Gen</b>.</li>
         </ul>
       </td>
-      <td width="35%" align="center" valign="top">
-        <br/>
-        <a href="https://chakreshram.in">
+      <td width="37%" align="center" valign="middle">
+        <a href="https://chakreshram.in" target="_blank">
           <img src="https://i.giphy.com/1is4K4y0oWyyGnWTSh.gif" width="100%" alt="Cyber Matrix GIF" />
         </a>
       </td>
     </tr>
   </table>
-  ```
 
-<br/>
-
+  <br/>
+```
 <!-- ========================================== -->
 <!--          SECURITY DISCOVERIES / VULNS      -->
 <!-- ========================================== -->
