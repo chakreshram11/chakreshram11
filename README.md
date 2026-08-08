@@ -108,55 +108,82 @@ root@chakresh:~$ cat /etc/operator_profile.json
 
 ## 🐛 `[SECTION: THREAT_INTEL_VULNERABILITY_DISCOVERIES]` (8 Confirmed Findings)
 
-```text
-[+] AUDIT_LOG #001: OTP Leakage in Frontend & API Response
-    ├── SEVERITY : CRITICAL
-    ├── DATE     : Feb 2026
-    ├── FINDING  : Authentication OTP exposed in both frontend console and API response during login, allowing SMS bypass and complete account takeover.
-    └── REMEDY   : Recommended returning success status only, keeping OTP generation & validation strictly on server side.
-
-[+] AUDIT_LOG #002: Broken Object Level Authorization (BOLA)
-    ├── SEVERITY : HIGH
-    ├── DATE     : Feb 2026
-    ├── FINDING  : Reviews endpoint unauthenticated and validates only parameters, allowing unauthorized users to access review data via resource IDs.
-    └── REMEDY   : Recommended enforcing strict authentication and object-level authorization checks.
-
-[+] AUDIT_LOG #003: Lack of Rate Limiting on OTP Generation
-    ├── SEVERITY : HIGH
-    ├── DATE     : Feb 2026
-    ├── FINDING  : OTP generation endpoint accepts unlimited requests without rate limits, enabling SMS flooding and brute-force assistance.
-    └── REMEDY   : Recommended implementing request throttling, CAPTCHA integration, and per-user rate limits.
-
-[+] AUDIT_LOG #004: Unauthenticated Property Data Exposure
-    ├── SEVERITY : MEDIUM / HIGH
-    ├── DATE     : Feb 2026
-    ├── FINDING  : Property listing API returns sensitive business data, pricing, images, and amenities to anonymous unauthenticated users.
-    └── REMEDY   : Recommended enforcing authentication and authorization before serving business data.
-
-[+] AUDIT_LOG #005: Improper Access Control on API Discovery
-    ├── SEVERITY : MEDIUM
-    ├── DATE     : Feb 2026
-    ├── FINDING  : Publicly accessible API endpoints expose application routing, parameters, and backend structure, expanding attack surface.
-    └── REMEDY   : Recommended restricting API discovery and enforcing route-level access controls.
-
-[+] AUDIT_LOG #006: Admin Panel Exposure & Redundant Subdomains
-    ├── SEVERITY : MEDIUM
-    ├── DATE     : Feb 2026
-    ├── FINDING  : Publicly exposed administrative portals and redundant beta subdomains increase exposure to brute-force and credential stuffing.
-    └── REMEDY   : Recommended restricting admin portal access via IP/VPN and decommissioning unused subdomains.
-
-[+] AUDIT_LOG #007: Information Disclosure
-    ├── SEVERITY : HIGH
-    ├── DATE     : Feb 2025
-    ├── FINDING  : Identified improper access control exposing sensitive institutional data.
-    └── REMEDY   : Implemented strict RBAC enforcement & input validation controls.
-
-[+] AUDIT_LOG #008: FTP Misconfiguration
-    ├── SEVERITY : HIGH
-    ├── DATE     : Feb 2025
-    ├── FINDING  : Discovered unauthenticated FTP access exposing internal directories.
-    └── REMEDY   : Applied mandatory host authentication & hardened protocol configs.
-```
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="12%">Log ID</th>
+        <th align="center" width="15%">Severity</th>
+        <th align="left" width="38%">Vulnerability Finding</th>
+        <th align="left" width="35%">Remediation / Fix</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><code>#001</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/CRITICAL-D9381E?style=for-the-badge&logo=shield"
+  alt="Critical" /></td>
+        <td><b>OTP Leakage in Frontend & API Response</b><br/><sub>Authentication OTP exposed in console and API
+  response, allowing SMS bypass & complete account takeover.</sub></td>
+        <td><code>Server-side OTP generation & strict response sanitization.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#002</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
+  alt="High" /></td>
+        <td><b>Broken Object Level Authorization (BOLA)</b><br/><sub>Reviews endpoint unauthenticated, allowing
+  unauthorized users to access resources via parameter tampering.</sub></td>
+        <td><code>Enforced strict RBAC and object-level access validation.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#003</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
+  alt="High" /></td>
+        <td><b>Lack of Rate Limiting on OTP Generation</b><br/><sub>Unrestricted requests on OTP endpoint enabling SMS
+  flooding and automated brute-force attempts.</sub></td>
+        <td><code>Implemented IP throttling, CAPTCHA, & rate limiting.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#004</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
+  alt="High" /></td>
+        <td><b>Information Disclosure (Institutional Data)</b><br/><sub>Improper access control exposing sensitive
+  institutional infrastructure data.</sub></td>
+        <td><code>Strict RBAC enforcement & input validation controls.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#005</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/HIGH-FF6B00?style=for-the-badge&logo=shield"
+  alt="High" /></td>
+        <td><b>FTP Misconfiguration</b><br/><sub>Unauthenticated FTP access exposing internal directories and system
+  files.</sub></td>
+        <td><code>Mandatory host auth & hardened FTP protocol configs.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#006</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
+  alt="Medium" /></td>
+        <td><b>Unauthenticated Property Data Exposure</b><br/><sub>Property listing API exposing sensitive business
+  pricing, amenities, and media to anonymous callers.</sub></td>
+        <td><code>Enforced authentication checks prior to serving data.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#007</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
+  alt="Medium" /></td>
+        <td><b>Improper Access Control on API Discovery</b><br/><sub>Publicly accessible endpoints revealing internal
+  backend routing, parameters, and application map.</sub></td>
+        <td><code>Restricted API discovery & route-level authorization.</code></td>
+      </tr>
+      <tr>
+        <td align="center"><code>#008</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/MEDIUM-E6A100?style=for-the-badge&logo=shield"
+  alt="Medium" /></td>
+        <td><b>Admin Panel Exposure & Redundant Subdomains</b><br/><sub>Publicly exposed admin gateways and orphaned
+  beta subdomains expanding attack surface.</sub></td>
+        <td><code>IP/VPN restricted admin access & decommissioned subdomains.</code></td>
+      </tr>
+    </tbody>
+  </table>
 
 <br/>
 
