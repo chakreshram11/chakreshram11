@@ -127,7 +127,7 @@
 
 <tr>
 <td align="center">🌐 <b>NODE</b></td>
-<td align="center"><a>npc chakreshram11</a></td>
+<td align="center"><a>npx chakreshram11</a></td>
 </tr>
 
 </table>
